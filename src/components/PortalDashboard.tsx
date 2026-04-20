@@ -23,7 +23,7 @@ const ALL_SYSTEMS = [
     id: "supacali",
     name: "Supacali",
     description: "資料管理系統",
-    url: "https://supacali-xzgd.vercel.app/",
+    url: "https://supacali.vercel.app/",
     color: "#fbbf24",
     icon: "◎",
   },
