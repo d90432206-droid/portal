@@ -43,7 +43,6 @@ const ALL_SYSTEMS = [
     url: "https://quotation-ashen.vercel.app/",
     color: "#60a5fa",
     icon: "◑",
-    comingSoon: true,
   },
 ];
 
