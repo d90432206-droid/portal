@@ -39,8 +39,8 @@ const ALL_SYSTEMS = [
   {
     id: "inquiry",
     name: "詢價系統",
-    description: "即將上線",
-    url: "#",
+    description: "詢價系統",
+    url: "https://quotation-ashen.vercel.app/",
     color: "#60a5fa",
     icon: "◑",
     comingSoon: true,
